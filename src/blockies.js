@@ -76,7 +76,7 @@ function buildOpts(opts) {
       color: createColor(),
       bgcolor: createColor(),
       spotcolor: createColor(),
-    }, opts)
+    }, opts);
 }
 
 export function toDataUrl(address) {
